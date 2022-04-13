@@ -2,9 +2,9 @@
 <b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
 
 <pre>
-Name: Hrishikesh Athalye
+Name: Abhishek kd
 MIS: 111803154
-Class : TY Comp Div 2
+Class : B1 CSE
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
