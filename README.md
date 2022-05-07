@@ -2,7 +2,7 @@
 <b>Link</b> : https://github.com/aditpatel01/Hospital-Management-DBMS
 
 <pre>
-Name: Abhishek kd
+Name: Abhishek.kd
 MIS: 111803154
 Class : B1 CSE
 </pre>
